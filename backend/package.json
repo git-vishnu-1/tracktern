@@ -1,0 +1,12 @@
+{
+  "name": "tracktern-backend",
+  "version": "1.0.0",
+  "description": "Backend for Internship Application Management System",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
